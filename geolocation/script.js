@@ -1,3 +1,3 @@
-if("geolocation" in navigator{
-    console.log(navigator.geolocation)
-});
+// if("geolocation" in navigator{
+//     console.log(navigator.geolocation)
+// });
